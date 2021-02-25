@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+
+![Image of Austria Lustenau](https://www.lustenau.at/uploads/media/940x400/09/13199-fans-choreosbg.jpg?v=1-0)
